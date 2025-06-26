@@ -22,7 +22,7 @@ Si necesitas más detalles, [código de conducta Berlín](https://berlincodeofco
 
 La conferencia es gratuita y de libre acceso.
 No se necesita entrada, pero os agradecemos que os registréis
-en https://www.opensouthcode.org/conferences/opensouthcode2025/register/new y que respondáis a un par de preguntas
+en https://www.opensouthcode.org/conferences/opensouthcode2026/register/new y que respondáis a un par de preguntas
 para poder organizarnos más fácil.
 
 ## OpenSouthKids
